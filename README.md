@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Rajasekhar Vadapalli ( Raja )
+- 👋 Hi, I’m Raja
 - 👀 I’m interested in Advanced Devops projects
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Devopsm
 - 📫 Reach me on https://www.linkedin.com/in/raja-vadapalli-270826285
 - This is my Training route to be a Devops Engineer, I will keep posting the sample projects and also the learning materials on here.
 
